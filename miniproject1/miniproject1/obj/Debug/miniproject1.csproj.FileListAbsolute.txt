@@ -1,0 +1,16 @@
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\bin\Debug\miniproject1.exe.config
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\bin\Debug\miniproject1.exe
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\bin\Debug\miniproject1.pdb
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.csproj.AssemblyReference.cache
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.Dashboard.resources
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.Properties.Resources.resources
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.csproj.GenerateResource.cache
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.csproj.CoreCompileInputs.cache
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.exe
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.pdb
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.Login.resources
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.workDetail.resources
+C:\Users\RUSHIKESH\source\repos\miniproject1\miniproject1\obj\Debug\miniproject1.deleteWork.resources
+C:\Users\Administrator\Desktop\2103025\miniproject1\miniproject1\miniproject1\obj\Debug\miniproject1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2103025\miniproject1\miniproject1\miniproject1\obj\Debug\miniproject1.exe
+C:\Users\Administrator\Desktop\2103025\miniproject1\miniproject1\miniproject1\obj\Debug\miniproject1.pdb
