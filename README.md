@@ -1,1 +1,2 @@
 # Engineer-Managed-Worker-Registration-Payroll-System
+This project implements a C# application for worker registration and payroll management designed for engineers.  Engineers can leverage this application to add new workers, remove existing workers, and calculate salaries. The application promotes efficient worker management by offering a user-friendly interface for data entry and calculations within the C# environment. 
